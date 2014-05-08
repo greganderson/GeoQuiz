@@ -171,7 +171,7 @@ public class QuizActivity extends ActionBarActivity {
     @Override
     public void onDestroy() {
     	super.onDestroy();
-    	Log.d(TAG, "onDestroy() called ");
+    	Log.d(TAG, "onDestroy() called");
     }
     
     private void checkAnswer(boolean userPressedTrue) {
