@@ -1,0 +1,27 @@
+/home/greg/programming/android/temp/GeoQuiz/gen/com/greganderson/geoquiz/R.java \
+ : /home/greg/programming/android/temp/GeoQuiz/res/drawable-hdpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-hdpi/arrow_right.png \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-hdpi/arrow_left.png \
+/home/greg/programming/android/temp/GeoQuiz/res/values/strings.xml \
+/home/greg/programming/android/temp/GeoQuiz/res/layout/activity_cheat.xml \
+/home/greg/programming/android/temp/GeoQuiz/res/layout/activity_quiz.xml \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-mdpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-mdpi/arrow_right.png \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-mdpi/arrow_left.png \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-ldpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/res/layout-land/activity_quiz.xml \
+/home/greg/programming/android/temp/GeoQuiz/res/menu/activity_quiz.xml \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-xhdpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-xhdpi/arrow_right.png \
+/home/greg/programming/android/temp/GeoQuiz/res/drawable-xhdpi/arrow_left.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-hdpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-hdpi/arrow_right.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-hdpi/arrow_left.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-mdpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-mdpi/arrow_right.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-mdpi/arrow_left.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-ldpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-xhdpi/arrow_right.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/res/drawable-xhdpi/arrow_left.png \
+/home/greg/programming/android/temp/GeoQuiz/bin/AndroidManifest.xml \
